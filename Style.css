@@ -1,0 +1,22 @@
+.item{align-content: center;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+border-style: dotted;
+border-color: #131212;
+}
+
+
+
+
+   
+a{color: rgb(240, 10, 125);
+    a:link{color:red;}
+    a:hover{color:blue;}
+    a:visited{color:green;}
+}
+
+footer{
+    text-align: center;
+    padding: 3px;
+    color: white;
+}
